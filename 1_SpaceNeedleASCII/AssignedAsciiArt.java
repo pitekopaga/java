@@ -71,7 +71,7 @@ public class AssignedAsciiArt {
    // produces wider tower part of figure
    public static void tower (int x) {
       for(int i=1; i<=x*x; i++) { 
-      //changed x-4 to x*x above for limit parameter in response to instructor feedback
+      //changed x-4 to x*x above for limit parameter
          for(int j=1; j<=x*3-x+1; j++) {
             System.out.print(" ");
          }
