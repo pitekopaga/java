@@ -1,0 +1,285 @@
+
+=== Crypto Investment Analyzer ===
+Started: 2026-05-31 09:54:46
+
+--- Analyzing Coins ---
+
+
+============================================================
+Analyzing: BITCOIN
+============================================================
+
+MARKET DATA:
+  Name: Bitcoin (BTC)
+  Rank: #1
+  Current Price: $73383.00
+  24h Change: -0.60%
+  Market Cap: $1470.41 Billion
+  24h Volume: $16.48 Billion
+  Volume/MCap Ratio: 1.12%
+  Distance from ATH: 41.8%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       HOLD
+  Score:        59/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       15 points
+  Liquidity:           4 points
+  Momentum:            5 points
+  Rank:               15 points
+  Market Cap:         20 points
+
+  --- Key Reasons ---
+  * Large cap coin (>$10B) - lower risk
+  * Top 10 coin - established project
+  * Fair valuation - consider DCA strategy
+
+=========================================
+
+
+============================================================
+Analyzing: ETHEREUM
+============================================================
+
+MARKET DATA:
+  Name: Ethereum (ETH)
+  Rank: #2
+  Current Price: $1998.12
+  24h Change: -1.26%
+  Market Cap: $241.15 Billion
+  24h Volume: $7.11 Billion
+  Volume/MCap Ratio: 2.95%
+  Distance from ATH: 59.6%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       BUY
+  Score:        62/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       18 points
+  Liquidity:           4 points
+  Momentum:            5 points
+  Rank:               15 points
+  Market Cap:         20 points
+
+  --- Key Reasons ---
+  * Large cap coin (>$10B) - lower risk
+  * Significant discount from ATH (-60%)
+  * Top 10 coin - established project
+  * Good accumulation zone with positive indicators
+
+=========================================
+
+
+============================================================
+Analyzing: BINANCECOIN
+============================================================
+
+MARKET DATA:
+  Name: BNB (BNB)
+  Rank: #4
+  Current Price: $707.52
+  24h Change: +0.09%
+  Market Cap: $95.31 Billion
+  24h Volume: $3.34 Billion
+  Volume/MCap Ratio: 3.50%
+  Distance from ATH: 48.4%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       BUY
+  Score:        62/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       15 points
+  Liquidity:           4 points
+  Momentum:           10 points
+  Rank:               15 points
+  Market Cap:         18 points
+
+  --- Key Reasons ---
+  * Large cap coin (>$10B) - lower risk
+  * Top 10 coin - established project
+  * Good accumulation zone with positive indicators
+
+=========================================
+
+
+============================================================
+Analyzing: CARDANO
+============================================================
+
+MARKET DATA:
+  Name: Cardano (ADA)
+  Rank: #16
+  Current Price: $0.23
+  24h Change: -1.63%
+  Market Cap: $8.63 Billion
+  24h Volume: $0.30 Billion
+  Volume/MCap Ratio: 3.43%
+  Distance from ATH: 92.5%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       HOLD
+  Score:        52/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       20 points
+  Liquidity:           4 points
+  Momentum:            5 points
+  Rank:               13 points
+  Market Cap:         10 points
+
+  --- Key Reasons ---
+  * Significant discount from ATH (-92%)
+  * Top 50 coin - good liquidity and recognition
+  * Fair valuation - consider DCA strategy
+
+=========================================
+
+
+============================================================
+Analyzing: SOLANA
+============================================================
+
+MARKET DATA:
+  Name: Solana (SOL)
+  Rank: #7
+  Current Price: $81.41
+  24h Change: -1.62%
+  Market Cap: $47.08 Billion
+  24h Volume: $1.35 Billion
+  Volume/MCap Ratio: 2.86%
+  Distance from ATH: 72.2%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       HOLD
+  Score:        59/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       20 points
+  Liquidity:           4 points
+  Momentum:            5 points
+  Rank:               15 points
+  Market Cap:         15 points
+
+  --- Key Reasons ---
+  * Large cap coin (>$10B) - lower risk
+  * Significant discount from ATH (-72%)
+  * Top 10 coin - established project
+  * Fair valuation - consider DCA strategy
+
+=========================================
+
+
+--- Trending Coins ---
+
+Top trending coins right now:
+  1. bonk
+  2. optimism
+  3. kite-2
+  4. hyperliquid
+  5. pudgy-penguins
+
+--- Analyzing Coins ---
+
+
+============================================================
+Analyzing: BONK
+============================================================
+
+MARKET DATA:
+  Name: Bonk (BONK)
+  Rank: #111
+  Current Price: $5.38
+  24h Change: -2.21%
+  Market Cap: $0.47 Billion
+  24h Volume: $0.02 Billion
+  Volume/MCap Ratio: 4.30%
+  Distance from ATH: 7.6%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       WATCH
+  Score:        24/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:        5 points
+  Liquidity:           4 points
+  Momentum:            5 points
+  Rank:                5 points
+  Market Cap:          5 points
+
+  --- Key Reasons ---
+  * Wait for better entry point or confirmation
+
+=========================================
+
+
+============================================================
+Analyzing: OPTIMISM
+============================================================
+Error analyzing optimism: Rate limit exceeded
+
+============================================================
+Analyzing: KITE-2
+============================================================
+Error analyzing kite-2: Rate limit exceeded
+
+============================================================
+Analyzing: HYPERLIQUID
+============================================================
+Error analyzing hyperliquid: Rate limit exceeded
+
+============================================================
+Analyzing: PUDGY-PENGUINS
+============================================================
+
+MARKET DATA:
+  Name: Pudgy Penguins (PENGU)
+  Rank: #109
+  Current Price: $0.01
+  24h Change: -3.30%
+  Market Cap: $0.49 Billion
+  24h Volume: $0.06 Billion
+  Volume/MCap Ratio: 13.24%
+  Distance from ATH: 88.7%
+=========================================
+          INVESTMENT ANALYSIS            
+=========================================
+
+  Action:       HOLD
+  Score:        47/100
+  Risk Level:   Low
+
+  --- Factor Breakdown ---
+  ATH Distance:       20 points
+  Liquidity:          12 points
+  Momentum:            5 points
+  Rank:                5 points
+  Market Cap:          5 points
+
+  --- Key Reasons ---
+  * Significant discount from ATH (-89%)
+  * High liquidity - easy entry/exit
+  * Fair valuation - consider DCA strategy
+
+=========================================
+
